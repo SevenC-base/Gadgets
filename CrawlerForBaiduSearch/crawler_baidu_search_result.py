@@ -51,7 +51,7 @@ def geturl(num, keyword):
     soup = BeautifulSoup(response.text, 'lxml')
     tag_h3 = soup.find_all('h3')
     # print(tag_h3)
-    with open('E:\\Program\\Python\\crawler-baidu\\result.txt', 'w', encoding='utf-8') as f:
+    with open('result.txt', 'w', encoding='utf-8') as f:
         for h3 in tag_h3:
             href = h3.find('a').get('href')
             #print('href=->', href)
