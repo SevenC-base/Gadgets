@@ -1,5 +1,7 @@
 # Gadgets
-a small tool for get the result of baidu search link.
+A small tool for get the result of baidu search link.
+
+There are still a few bugs, but I won't update them
 
 
 Directions for use
