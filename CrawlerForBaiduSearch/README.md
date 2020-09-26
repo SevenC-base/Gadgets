@@ -5,8 +5,11 @@ a small tool for get the result of baidu search link.
 Directions for use
 
 1、python -m pip install -r requirements.txt
+
 2、set the chrome driver path
+
 3、driver_path = "{Your computer path of chromedriver.exe}\\chromedriver.exe"
+
 4、python crawler.py -p 2 -k inurl:login
 
 
