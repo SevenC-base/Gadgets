@@ -21,7 +21,7 @@ from urllib import request
 from urllib.request import quote
 global start
 
-driver_path = "C:\\Users\\Administrator\\Desktop\\Try Harder\\SRC漏洞\\自动化爬取漏洞\\chrome-win\\chromedriver.exe"
+driver_path = "{Your computer path of chromedriver.exe}\\chromedriver.exe"
 
 headersParameters = {  # 发送HTTP请求时的HEAD信息，用于伪装为浏览器
     'Connection': 'Keep-Alive',
