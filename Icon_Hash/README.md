@@ -23,4 +23,4 @@ Directions for use(need python3.x)
 	     
 Directions for use exe_version
 
-	![image](https://github.com/SevenC-base/Gadgets/blob/master/Icon_Hash/usage_exe_version.png)
+![image](https://github.com/SevenC-base/Gadgets/blob/master/Icon_Hash/usage_exe_version.png)
